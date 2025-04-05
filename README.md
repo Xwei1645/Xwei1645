@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is Xwei, a soon-to-be  student at Wenzhou No. 2 Senior High School.
+This is Xwei, a middle school stundent in Wenzhou and a soon-to-be  student at Wenzhou No. 2 Senior High School.
 
 - 🌱 I’m currently learning deeper programming basic (sounds strange?) and preparing for senior high school life.
 - 👯 I’m waiting for a *fùgē*.
