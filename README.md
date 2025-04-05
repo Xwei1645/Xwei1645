@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is Xwei, a soon-to-be  student at Wenzhou No. 2 Senior High School.
+
+- 🌱 I’m currently learning deeper programming basic (sounds strange?) and preparing for senior high school life.
+- 👯 I’m waiting for a *fùgē*.
+- 📫 How to reach me: [Email](mailto:xuwei1645@163.com) or [bilibili](https://space.bilibili.com/573734644).
+
+
