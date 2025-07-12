@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is Xwei, a middle school stundent in Wenzhou and a soon-to-be  student at Wenzhou No. 2 Senior High School.
+This is Xwei, a high school stundent at Wenzhou High School.
 
 - 🌱 I’m currently learning deeper programming basic (sounds strange?) and preparing for senior high school life.
 - 👯 I’m waiting for a *fùgē*.
-- 📫 How to reach me: [Email](mailto:xuwei1645@163.com) or [bilibili](https://space.bilibili.com/573734644).
+- 📫 How to reach me: [email](mailto:xuwei1645@163.com) or [bilibili](https://space.bilibili.com/573734644).
 
 
