@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 This is Xwei(Wei Wu), a high school stundent at Zhejiang Wenzhou High School.
 
-- 🌱 I’m currently learning and working to create an app called EasiStartup, which may be helpful to manage srartup items of a OS with auto recovery, and preparing for senior high school life.
+- 🌱 I’m currently learning and working to develop some plguins for [NoneBot](https://github.com/noenbot/nonebot2], and preparing for senior high school life.
 - 👯 I’m waiting for a *fùgē*.
 - 📫 How to reach me: [email](mailto:xuwei1645@163.com) or [bilibili](https://space.bilibili.com/573734644).
 
