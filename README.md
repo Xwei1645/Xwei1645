@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is Wei Wu, a high school stundent at Zhejiang Wenzhou High School.
+This is Xwei!
+
+<!--a high school stundent at Zhejiang Wenzhou High School.-->
 
 - 🌱 I’m currently learning and working to develop some plguins for [NoneBot](https://github.com/nonebot/nonebot2) and [FinitoBoard](https://github.com/Xwei1645/finito_board).
 - 👯 I’m waiting for a *fùgē*.
